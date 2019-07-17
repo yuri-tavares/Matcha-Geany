@@ -3,4 +3,4 @@ Matcha theme for Geany. It is inspired by the Matcha Gedit theme from Vince Liui
 
 # Instalation
 
-Put file matcha.conf at directory ~/.config/geany/colorschemes.
+Put the file matcha.conf at directory ~/.config/geany/colorschemes.
